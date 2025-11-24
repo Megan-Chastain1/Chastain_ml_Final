@@ -8,6 +8,8 @@ Dataset: UCI Insurance Dataset
 
 Jupyter Notebook: regression_Chastain.ipynb
 
+Peer review: https://github.com/Megan-Chastain1/ml_regression_Chastain/blob/main/peer_review.md
+
 ## 🚀 Project Setup
 
 This project uses uv for dependency management and virtual environment creation. Follow these steps to set up your local development environment.

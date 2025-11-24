@@ -2,7 +2,9 @@
 ## Author and Resources
 
 Author: Megan Chastain
+
 Dataset: UCI Insurance Dataset
+
 Jupyter Notebook: https://github.com/Megan-Chastain1/ml_regression_Chastain/blob/main/regression_Chastain.ipynb 
 
 ## 🚀 Project Setup
